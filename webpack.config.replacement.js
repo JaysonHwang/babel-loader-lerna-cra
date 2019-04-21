@@ -1,1 +1,1 @@
-module.exports = require('babel-loader-lerna-cra')(__dirname, __filename);
+module.exports = require('@jaysonhwang/babel-loader-lerna-cra')(__dirname, __filename);
