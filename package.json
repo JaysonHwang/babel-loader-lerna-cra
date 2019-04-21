@@ -12,9 +12,6 @@
         "transpile",
         "babel"
     ],
-    "script": {
-        "publish": "npm publish --access public"
-    },
     "main": "override.js",
     "bin": "bootstrap.js",
     "dependencies": {
