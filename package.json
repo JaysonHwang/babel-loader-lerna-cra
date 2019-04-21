@@ -12,6 +12,7 @@
         "transpile",
         "babel"
     ],
+    "script": "npm public --access public",
     "main": "override.js",
     "bin": "bootstrap.js",
     "dependencies": {
@@ -25,6 +26,5 @@
     "repository": {
       "type": "git",
       "url": "http://github.com/JaysonHwang/babel-loader-lerna-cra.git"
-    },
-    "access": "public"
+    }
 }
