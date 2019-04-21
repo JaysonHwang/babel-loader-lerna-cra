@@ -1,5 +1,5 @@
 {
-    "name": "babel-loader-lerna-cra",
+    "name": "babel-loader-lerna-cra3",
     "version": "0.1.3",
     "description": "Transpile Create-React-App imports in Lerna projects.",
     "keywords": [
@@ -24,6 +24,6 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "http://github.com/f1lt3r/babel-loader-lerna-cra.git"
+      "url": "http://github.com/JaysonHwang/babel-loader-lerna-cra.git"
     }
 }
