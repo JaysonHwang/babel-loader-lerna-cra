@@ -25,5 +25,6 @@
     "repository": {
       "type": "git",
       "url": "http://github.com/JaysonHwang/babel-loader-lerna-cra.git"
-    }
+    },
+    "access": "plubic"
 }
